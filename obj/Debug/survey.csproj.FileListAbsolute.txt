@@ -1,0 +1,9 @@
+E:\survey\survey\bin\Debug\survey.exe.config
+E:\survey\survey\bin\Debug\survey.exe
+E:\survey\survey\bin\Debug\survey.pdb
+E:\survey\survey\obj\Debug\survey.csprojAssemblyReference.cache
+E:\survey\survey\obj\Debug\survey.Form1.resources
+E:\survey\survey\obj\Debug\survey.Properties.Resources.resources
+E:\survey\survey\obj\Debug\survey.csproj.GenerateResource.cache
+E:\survey\survey\obj\Debug\survey.exe
+E:\survey\survey\obj\Debug\survey.pdb
